@@ -1,4 +1,4 @@
-```md
+
 # 💫 About Me
 I'm a B.Tech Information Technology student at VNR Vignana Jyothi Institute of Engineering & Technology, Hyderabad.
 
@@ -45,4 +45,4 @@ I'm a B.Tech Information Technology student at VNR Vignana Jyothi Institute of E
 ---
 
 [![](https://visitcount.itsvg.in/api?id=bnikhilsiddharth&icon=0&color=0)](https://visitcount.itsvg.in)
-```
+
